@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516655479 source:c:\users\fatih\desktop\fiveriko\c++\initialization\main.cpp
+	<iostream>
+	<complex>
+	<vector>
+
