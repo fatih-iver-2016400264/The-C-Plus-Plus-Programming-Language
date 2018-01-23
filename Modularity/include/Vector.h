@@ -1,7 +1,9 @@
 #ifndef VECTOR_H
 #define VECTOR_H
 
-double sqrt(double); // the square root function takes a double and returns a double
+// Vector.h:
+
+double sqrt1(double); // the square root function takes a double and returns a double
 
 class Vector
 {

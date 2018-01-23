@@ -1,9 +1,12 @@
-#include "Vector.h"
+#include "Vector.h" // get Vector's interface
+#include <cmath>    // get the standard-library math function interface including sqrt()
 
-double sqrt(double d) // definition of sqrt()
+using namespace std; // make std members visible
+
+double sqrt1(double d) // definition of sqrt()
 {
     // ...algorithm as found in math textbook
-
+    return sqrt(d);
 }
 
 
