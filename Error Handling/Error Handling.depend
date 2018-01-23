@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1516715177 source:c:\users\fatih\desktop\fiveriko\c++\error handling\main.cpp
+	<iostream>
+
+1516716461 source:c:\users\fatih\desktop\fiveriko\c++\error handling\src\vector.cpp
+	"Vector.h"
+	<stdexcept>
+
+1516716461 c:\users\fatih\desktop\fiveriko\c++\error handling\include\vector.h
+
