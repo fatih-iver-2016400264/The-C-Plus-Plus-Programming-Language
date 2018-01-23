@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516712116 source:c:\users\fatih\desktop\fiveriko\c++\modularity\main.cpp
+	<iostream>
+	"Vector.h"
+
+1516712110 c:\users\fatih\desktop\fiveriko\c++\modularity\include\vector.h
+
