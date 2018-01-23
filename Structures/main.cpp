@@ -39,3 +39,13 @@ double read_and_sum(int s)
 
 }
 
+void f(Vector v, Vector& rv, Vector* pv){
+
+    int i1 = v.sz;
+
+    int i2 = rv.sz;
+
+    int i3 = pv -> sz;
+
+}
+
