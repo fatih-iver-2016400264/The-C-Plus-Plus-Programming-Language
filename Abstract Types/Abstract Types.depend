@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1516823748 source:c:\users\fatih\desktop\fiveriko\c++\abstract types\main.cpp
+	<iostream>
+
+1516823805 source:c:\users\fatih\desktop\fiveriko\c++\abstract types\src\container.cpp
+	"Container.h"
+
+1516824031 c:\users\fatih\desktop\fiveriko\c++\abstract types\include\container.h
+	<iostream>
+
+1516823905 source:c:\users\fatih\desktop\fiveriko\c++\abstract types\src\list_container.cpp
+	"List_container.h"
+
+1516823892 c:\users\fatih\desktop\fiveriko\c++\abstract types\include\list_container.h
+	"Container.h"
+	<list>
+	<stdexcept>
+
+1516823971 source:c:\users\fatih\desktop\fiveriko\c++\abstract types\src\vector_container.cpp
+	"Vector_container.h"
+
+1516823964 c:\users\fatih\desktop\fiveriko\c++\abstract types\include\vector_container.h
+	"Container.h"
+
