@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1516819832 source:c:\users\fatih\desktop\fiveriko\c++\a container\main.cpp
+	<iostream>
+	"Vector.h"
+
+1516820951 c:\users\fatih\desktop\fiveriko\c++\a container\include\vector.h
+	<istream>
+
+1516819849 source:c:\users\fatih\desktop\fiveriko\c++\a container\src\vector.cpp
+	"Vector.h"
+
