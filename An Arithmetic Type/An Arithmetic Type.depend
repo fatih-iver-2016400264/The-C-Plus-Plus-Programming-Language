@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1516817587 source:c:\users\fatih\desktop\fiveriko\c++\an arithmetic type\main.cpp
+	<iostream>
+
+1516817499 source:c:\users\fatih\desktop\fiveriko\c++\an arithmetic type\src\complex.cpp
+	"complex.h"
+
+1516817587 c:\users\fatih\desktop\fiveriko\c++\an arithmetic type\include\complex.h
+
