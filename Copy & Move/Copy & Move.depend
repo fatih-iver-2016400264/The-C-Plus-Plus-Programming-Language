@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517138574 source:c:\users\fatih\desktop\fiveriko\c++\copy & move\main.cpp
+	<iostream>
+	<vector>
+	<complex>
+
