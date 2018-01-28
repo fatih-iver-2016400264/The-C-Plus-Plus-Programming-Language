@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1516898321 source:c:\users\fatih\desktop\fiveriko\c++\class hierarchies\main.cpp
+	<iostream>
+
+1516896723 source:c:\users\fatih\desktop\fiveriko\c++\class hierarchies\src\shape.cpp
+	"Shape.h"
+
+1517132744 c:\users\fatih\desktop\fiveriko\c++\class hierarchies\include\shape.h
+	<vector>
+
+1517133191 source:c:\users\fatih\desktop\fiveriko\c++\class hierarchies\src\circle.cpp
+	"Circle.h"
+
+1517133747 c:\users\fatih\desktop\fiveriko\c++\class hierarchies\include\circle.h
+	"Shape.h"
+
+1517133956 source:c:\users\fatih\desktop\fiveriko\c++\class hierarchies\src\smiley.cpp
+	"Smiley.h"
+
+1517133851 c:\users\fatih\desktop\fiveriko\c++\class hierarchies\include\smiley.h
+	"Circle.h"
+	<vector>
+
