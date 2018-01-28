@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1517145041 source:c:\users\fatih\desktop\fiveriko\c++\suppressing operations\main.cpp
+	<iostream>
+
+1517145057 source:c:\users\fatih\desktop\fiveriko\c++\suppressing operations\src\shape.cpp
+	"Shape.h"
+
+1517145057 c:\users\fatih\desktop\fiveriko\c++\suppressing operations\include\shape.h
+
