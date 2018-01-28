@@ -3,6 +3,8 @@
 #include <vector>
 #include <complex>
 
+#include "Vector.h"
+
 using namespace std;
 
 int main()
@@ -26,4 +28,17 @@ void bad_copy(vector<int> v1)
         v2[1] = 3; // v1[1] is now also 3!
 }
 
+Vector f(){
+
+    Vector x(1000);
+    Vector y(1000);
+    Vector z(1000);
+    //...
+
+    z = x; // Copy assignment
+
+    // y = move(x); // we get a move
+
+    return z; // we get a move
+}
 
