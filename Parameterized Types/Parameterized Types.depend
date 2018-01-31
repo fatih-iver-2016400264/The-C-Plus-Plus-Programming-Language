@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1517436542 source:c:\users\fatih\desktop\fiveriko\c++\parameterized types\main.cpp
+	<iostream>
+	<string>
+	<list>
+	"Vector.h"
+
+1517436247 source:c:\users\fatih\desktop\fiveriko\c++\parameterized types\src\vector.cpp
+	"Vector.h"
+
+1517436831 c:\users\fatih\desktop\fiveriko\c++\parameterized types\include\vector.h
+	<stdexcept>
+
