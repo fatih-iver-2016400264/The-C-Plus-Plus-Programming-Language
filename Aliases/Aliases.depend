@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1517920280 source:c:\users\user\desktop\codeblcoks projects\aliases\main.cpp
+	<iostream>
+	<vector>
+
+1517920062 source:c:\users\user\desktop\codeblcoks projects\aliases\src\vector.cpp
+	"Vector.h"
+
+1517920095 c:\users\user\desktop\codeblcoks projects\aliases\include\vector.h
+
+1517920280 source:c:\users\user\desktop\codeblcoks projects\aliases\src\map.cpp
+	"Map.h"
+
+1517920448 c:\users\user\desktop\codeblcoks projects\aliases\include\map.h
+	<string>
+
